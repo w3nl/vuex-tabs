@@ -1,0 +1,37 @@
+{
+    "name": "vuex-tabs",
+    "version": "0.1.0",
+    "description": "Tabs component for vue.js",
+    "main": "src/index.js",
+    "files": [
+        "src/index.js",
+        "src/Tab.js",
+        "src/Tabs.js"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/w3nl/vuex-tabs.git"
+    },
+    "keywords": [
+        "vue.js",
+        "tabs"
+    ],
+    "author": {
+        "name": "Pieter Wigboldus",
+        "url": "https://hckr.news/"
+    },
+    "license": "GPL-3",
+    "bugs": {
+        "url": "https://github.com/w3nl/vuex-tabs/issues"
+    },
+    "homepage": "https://github.com/w3nl/vuex-tabs#readme",
+    "devDependencies": {
+        "eslint": "^4.6.1",
+        "eslint-config-prettier": "^2.9.0",
+        "eslint-plugin-prettier": "^2.3.1",
+        "prettier": "^1.10.2"
+    }
+}
